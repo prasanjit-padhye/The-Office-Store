@@ -115,13 +115,13 @@ li a:hover {
 
 	<div class="jumbotron text-center" style="background-color: white;">
 		<h1>
-			<a href="homePage.html"><img src="the_office.png"
+			<a href="index.html"><img src="the_office.png"
 				class="img-rounded"></a>
 		</h1>
 
 
 		<ul>
-			<li><a class="active" href="homePage.html">Home</a></li>
+			<li><a class="active" href="index.html">Home</a></li>
 			<li><a href="products.html">Products</a></li>
 			<li><a href="news.html">News</a></li>
 			<li><a href="about.html">About</a></li>
